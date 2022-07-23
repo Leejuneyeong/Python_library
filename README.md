@@ -1,5 +1,4 @@
-# Python
-파이썬 라이브러리 
+# Python 라이브러리
 
 -Numpy-
 -Pandas-
